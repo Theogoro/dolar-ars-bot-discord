@@ -4,7 +4,7 @@
   "description": "Bot de Discord que muestra el precio del dolar",
   "main": "src/index.js",
   "scripts": {
-    "test": "."
+    "start": "node src/index.js --experimental-modules"
   },
   "repository": {
     "type": "git",
